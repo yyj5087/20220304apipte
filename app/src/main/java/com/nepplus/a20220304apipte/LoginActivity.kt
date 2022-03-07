@@ -32,6 +32,7 @@ class LoginActivity : BasicActivity() {
                         runOnUiThread {
                             Toast.makeText(mContext, "로그인 성공!", Toast.LENGTH_SHORT).show()
                         }
+//                        메인화면으로 진입
 
                     }          
                     else{
