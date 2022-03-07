@@ -20,6 +20,7 @@ class LoginActivity : BasicActivity() {
         binding.btnSignUp.setOnClickListener {
             val myIntent = Intent(mContext,SignActivity::class.java)
             startActivity(myIntent)
+
         }
 
         binding.btnLogin.setOnClickListener {
