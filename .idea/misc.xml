@@ -3,11 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/NePPPlus_001/AndroidStudioProjects/20220304apipte/app/src/main/res/drawable/dark_gray_border_box.xml" value="0.6535714285714286" />
         <entry key="..\:/Users/NePPPlus_001/AndroidStudioProjects/20220304apipte/app/src/main/res/layout/activity_login.xml" value="0.22870370370370371" />
         <entry key="..\:/Users/NePPPlus_001/AndroidStudioProjects/20220304apipte/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/NePPPlus_001/AndroidStudioProjects/20220304apipte/app/src/main/res/layout/activity_sign.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/NePPPlus_001/AndroidStudioProjects/20220304apipte/app/src/main/res/layout/activity_splash.xml" value="0.28888888888888886" />
+        <entry key="..\:/Users/NePPPlus_001/AndroidStudioProjects/20220304apipte/app/src/main/res/layout/reply_list_item.xml" value="0.18981481481481483" />
         <entry key="..\:/Users/NePPPlus_001/AndroidStudioProjects/20220304apipte/app/src/main/res/layout/topic_list_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/NePPPlus_001/AndroidStudioProjects/20220304apipte/app/src/main/res/layout/view_top_detail.xml" value="0.36614583333333334" />
       </map>
     </option>
   </component>
